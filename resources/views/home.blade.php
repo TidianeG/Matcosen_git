@@ -91,38 +91,38 @@
 					</ol>
 					<div class="carousel-inner">
 					<div class="carousel-item active mr-3">
-						<img class="second-slide animated zoomInDown  d-md-block" src="{{asset('images/materiel3.jpg')}}" style="" alt="">
+						<img class="second-slide animated zoomInDown  d-md-block" src="{{asset('images/robinetcuisine.jpg')}}" style="" alt="">
 						<div class="container">
 						<div class="carousel-caption  d-md-block"  style="left: -3%;">
 							<h1 class="animated fadeInDown" style="color: #ffffff;">Matcosen Equipement.</h1>
-							<p class="animated fadeInRight" style="color: #ffffff;">MATCOSEN .</p>
+							<p class="animated fadeInRight mt-3" style="color: white; font-weight:bold; font-size: 16px;">Maçonnerie,sanitaire,peinture et electricité .</p>
 						</div>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="second-slide animated zoomInDown  d-md-block" src="{{asset('images/materiel2.jpg')}}" style="" alt="">
+						<img class="second-slide animated zoomInDown  d-md-block" src="{{asset('images/douche.jpg')}}" style="" alt="">
 						<div class="container">
 						<div class="carousel-caption  d-md-block" style="left:-3%;">
 							<h1 class="animated fadeInDown" style="color: #ffffff;">Matcosen Equipement.</h1>
-							<p class="animated fadeInRight" style="color: #ffffff;">MATCOSEN .</p>
+							<p class="animated fadeInRight" style="color: white; font-weight:bold; font-size: 16px;">Maçonnerie,sanitaire,peinture et electricité .</p>
 						</div>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="second-slide animated zoomInDown d-md-block" src="{{asset('images/construction-material.jpeg')}}" alt="" style="">
+						<img class="second-slide animated zoomInDown d-md-block" src="{{asset('images/materiel3.jpg')}}" alt="" style="">
 						<div class="container">
 						<div class="carousel-caption  d-md-block" style="left: -3%;">
 							<h1 class="animated fadeInDown" style="color: #ffffff;">Matcosen Equipement.</h1>
-							<p class="animated fadeInRight" style="color: #ffffff;">MATCOSEN .</p>
+							<p class="animated fadeInRight" style="color: white; font-weight:bold; font-size: 16px;">Maçonnerie,sanitaire,peinture et electricité .</p>
 						</div>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="second-slide animated zoomInDown  d-md-block" src="{{asset('images/robinetcuisine.jpg')}}" alt="" style="">
+						<img class="second-slide animated zoomInDown  d-md-block" src="{{asset('images/outils1.jpg')}}" alt="" style="">
 						<div class="container">
 						<div class="carousel-caption  d-md-block"  style="left: -3%;">
 						<h1 class="animated fadeInDown" style="color: #ffffff;">Matcosen Equipement.</h1>
-							<p class="animated fadeInRight" style="color: #ffffff;">MATCOSEN .</p>
+							<p class="animated fadeInRight" style="color: white; font-weight:bold; font-size: 16px;">Maçonnerie,sanitaire,peinture et electricité .</p>
 							
 						</div>
 						</div>
@@ -132,7 +132,7 @@
 						<div class="container">
 						<div class="carousel-caption  d-md-block" style="left: -3%;">
 							<h1 class="animated fadeInDown" style="color: #ffffff;">Matcosen Equipement.</h1>
-							<p class="animated fadeInRight" style="color: #ffffff;">MATCOSEN .</p>
+							<p class="animated fadeInRight" style="color: white; font-weight:bold; font-size: 16px;">Maçonnerie,sanitaire,peinture et electricité .</p>
 							
 						</div>
 						</div>
